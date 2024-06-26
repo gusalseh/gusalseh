@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**gusalseh/gusalseh** is a ✨ _special_ ✨ repository
+
+- 🔭 I’m currently working on TMD Course
+- 🌱 I’m currently learning Javascript, Typescript, Python
+- 👯 I’m looking to collaborate on promising projects
+- 🤔 I’m looking for help with a job searching
+- 💬 Ask me about Your Ideas
+- 📫 How to reach me: https://github.com/gusalseh
+- 😄 Pronouns: ?
+- ⚡ Fun fact: Not a funny man
