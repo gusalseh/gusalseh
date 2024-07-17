@@ -42,4 +42,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusalseh&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusalseh&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencerDo&show_icons=true&theme=radical)
